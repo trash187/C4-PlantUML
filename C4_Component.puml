@@ -32,7 +32,7 @@ skinparam database<<component>> {
 ' Layout
 ' ##################################
 
-!definelong LAYOUT_WITH_LEGEND
+!definelong LAYOUT_WITH_LEGEND()
 hide stereotype
 legend right
 |=              |= Type |
